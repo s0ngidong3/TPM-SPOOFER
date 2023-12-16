@@ -18,4 +18,5 @@ This repository contains two projects:
 Both of there projects were tested on Windows 11 22H2 22621. You will need [Visual Studio 2022](https://visualstudio.microsoft.com/) and [WDK](https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk) to compile them.
 
 made by samueltulach and s0ngidong3
+
 discord : _onez.01
