@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "serial checker", "serial checker\serial checker.vcxproj", "{C42D5735-203F-40B0-893B-2F9C107A0BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42D5735-203F-40B0-893B-2F9C107A0BB2}.Debug|x64.ActiveCfg = Debug|x64
+		{C42D5735-203F-40B0-893B-2F9C107A0BB2}.Debug|x64.Build.0 = Debug|x64
+		{C42D5735-203F-40B0-893B-2F9C107A0BB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{C42D5735-203F-40B0-893B-2F9C107A0BB2}.Debug|x86.Build.0 = Debug|Win32
+		{C42D5735-203F-40B0-893B-2F9C107A0BB2}.Release|x64.ActiveCfg = Release|x64
+		{C42D5735-203F-40B0-893B-2F9C107A0BB2}.Release|x64.Build.0 = Release|x64
+		{C42D5735-203F-40B0-893B-2F9C107A0BB2}.Release|x86.ActiveCfg = Release|Win32
+		{C42D5735-203F-40B0-893B-2F9C107A0BB2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B92A6F62-ECCA-482A-BEC9-62BB9B204DED}
+	EndGlobalSection
+EndGlobal
