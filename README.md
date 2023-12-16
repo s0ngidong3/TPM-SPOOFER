@@ -11,7 +11,7 @@ Also make sure to clean up the registry entiries created on boot: `HKEY_LOCAL_MA
 
 ## Usage
 This repository contains two projects:
-- `serial checker.exe` - Simple console application to read EK from the TPM under Windows and use wmic command to check pc serials
+- `serial checker` - Simple console application to read EK from the TPM under Windows and use wmic command to check pc serials
 
 - `tpm` - Kernel-mode driver that hooks tpm.sys dispatch to overwrite any command requests for public keys
 
