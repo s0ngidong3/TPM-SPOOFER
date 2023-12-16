@@ -1,9 +1,0 @@
-﻿  Building 'tpm-hook' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  entry.cpp
-  hook.cpp
-  utils.cpp
-  코드를 생성하고 있습니다...
-  tpm-hook.vcxproj -> C:\Users\onez\Downloads\tpm spoofing\tpm-hook\x64\Release\tpmhook.sys
-  Done Adding Additional Store
-  Successfully signed: C:\Users\onez\Downloads\tpm spoofing\tpm-hook\x64\Release\tpmhook.sys
-  
